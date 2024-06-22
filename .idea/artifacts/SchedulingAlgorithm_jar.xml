@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SchedulingAlgorithm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SchedulingAlgorithm_jar</output-path>
+    <root id="archive" name="SchedulingAlgorithm.jar">
+      <element id="module-output" name="SchedulingAlgorithm" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jcommon-1.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
